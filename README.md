@@ -37,9 +37,9 @@ This is to be expected because cities generlly generate more revenue due to thei
 In order to reduce the disparity between Urban, Suburban and Rural cities, we recomend the following:
 
 1. The study should analyze the entire course of the year so it could provide insights into yearly trends.
-2. It seems like the Rural cities are underserved, but it would be neccesary to perform a market study to confirm if there is enough demand in this market segment to justify investing in hiring more drivers.  
-3. Based on the relationship of Urban cities of `2405 Drivers/1625 Rides = 1.48 Drivers/Ride`, the total number of drivers in Rural areas shold be increased at least to **185** `(78 drivers * 1.48 = 185 drivers)`, but this increase has to be supported by a market study, as explained in #2.
-4. Using the same metric as in #3 above, the number of drivers in Suburban cities should be increased to a minimum of **726**
+2. Rural cities are underserved, but market study needs to be performed to determine if there's enough demand in this market to justify hiring more drivers.  
+3. Based on the relationship of Urban cities of `2405 Drivers/1625 Rides = 1.48 Drivers/Ride`, the total number of drivers in Rural areas shold be increased at least to **185** `(78 drivers * 1.48 = 185 drivers)`,and the number of drivers in Suburban cities should be increased to a minimum of **726** , or consider raising the price/mile in.
+ 
 
 
 
