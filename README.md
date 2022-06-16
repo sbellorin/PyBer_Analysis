@@ -12,11 +12,11 @@ The study is based on data obtained from PyBer. The CSV file has been processed 
 ### Fig 1. Summary Dataframe by City Type
 ![PyBer Summary Dataframe](https://github.com/sbellorin/PyBer_Analysis/blob/569797baa6a104e8bb475f271ddf7fab025cc04c/analysis/citytype_df.png)
 
-The summary Dataframe above indicate that there is a gap in the `number of rides in urban cities and suburban or rural ones (2.6:1), as well as between urban and rural (13:1)`. Furthermore, `the number of drivers in urban areas is about five times that of suburban cities, and 31 times that of rural towns`. Similarly, the number of rides per driver favors rural and suburban drivers over urban ones. `0.68 Rides/Driver in Urban Cities vs. 1.28 in Suburban and 1.6 in Rural` is the relationship.
+The summary Dataframe above indicate that there is a gap in the number of rides in urban cities and suburban or rural ones `(2.6:1)`, as well as between urban and rural `(13:1)`. Furthermore, the number of drivers in urban areas is about five times that of suburban cities, and 31 times that of rural towns. Similarly, the number of rides per driver favors rural and suburban drivers over urban ones. `0.68 Rides/Driver in Urban Cities vs. 1.28 in Suburban and 1.6 in Rural` is the relationship.
 
-The `Average Fare per Ride` is 20% lower in urban cities than suburban, and 30% lower in urban cities versus rural.
+The Average Fare per Ride is 20% lower in urban cities than suburban, and 30% lower in urban cities versus rural.
 
-Rural drivers clearly outperform Suburban and Urban drivers in terms of `Average Fare per Driver`. The ratio is 3.3:1 for rural vs. urban, and 2.4:1 for suburban vs. urban. 
+Rural drivers `Average Fare per Driver` definitely surpasses Suburban and Urban drivers. The ratio is `2.4:1` for suburban vs. urban, and `3.3:1` for rural vs. urban.  
 
 
 ### Fig 2. Total Fare by City Type
@@ -36,7 +36,7 @@ This is to be expected because cities generlly generate more revenue due to thei
 
 In order to reduce the disparity between Urban, Suburban and Rural cities, we recomend the following:
 
-1. Instead of focusing on just the first third of the year, the study may gain from having extra data points that span the entire year and provide insights into yearly trends.
+1. The study should analyze the entire course of the year so it could provide insights into yearly trends.
 2. It seems like the Rural cities are underserved, but it would be neccesary to perform a market study to confirm if there is enough demand in this market segment to justify investing in hiring more drivers.  
 3. Based on the relationship of Urban cities of `2405 Drivers/1625 Rides = 1.48 Drivers/Ride`, the total number of drivers in Rural areas shold be increased at least to **185** `(78 drivers * 1.48 = 185 drivers)`, but this increase has to be supported by a market study, as explained in #2.
 4. Using the same metric as in #3 above, the number of drivers in Suburban cities should be increased to a minimum of **726**
